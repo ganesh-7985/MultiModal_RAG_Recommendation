@@ -34,5 +34,3 @@ This project implements an advanced Multimodal Retrieval-Augmented Generation (R
 - Real-time feedback and suggestions
 - Interactive product exploration
 - Seamless virtual try-on experience
-
-# MultiModal_RAG_Recommendation
